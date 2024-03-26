@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 import { twMerge } from "tailwind-merge"
 
 export const metadata: Metadata = {
-  title: "xyTweet",
+  title: "XYTweet",
   icons: null
 }
 
